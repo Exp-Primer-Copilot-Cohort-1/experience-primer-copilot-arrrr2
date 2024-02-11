@@ -1,4 +1,4 @@
-function skillsMumber() {
+function skillsMember() {
   console.log('I am a member of the team');
   console.log('I have the following skills:');
   console.log('I can work in a team');
